@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+}
+.container{
+	    background: yellow;
+    width: 1200px;
+    margin: 0 auto;
+}
+.box1{
+	    height: 200px;
+    width: 400px;
+    background: red;
+    float: left;
+}
+.box2{
+	    height: 200px;
+    width: 400px;
+    background: green;
+    float: left;
+}
+.box3{
+	    height: 200px;
+    width: 400px;
+    background: yellow;
+    float: left;
+}
+
+.box4{
+	    height: 200px;
+    width: 400px;
+    background: yellow;
+    float: left;
+}
+.box5{
+	    height: 200px;
+    width: 400px;
+    background: yellow;
+    float: left;
+}
